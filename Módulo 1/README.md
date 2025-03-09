@@ -1,0 +1,103 @@
+# Módulo 1: As redes de hoje
+
+[Acesso ao curso](https://www.netacad.com/launch?id=bc29ad5d-4f8e-4751-a8d2-5996464095b7)
+
+- 1.0. Introdução:
+    - Packet Tracer.
+- 1.1. Redes afetam nossas vidas
+- 1.2. Componentes de rede:
+    - Hosts;
+    - Redes Ponto à Ponto;
+    - Dispositivos finais;
+    - Dispositivos Intermediários;
+    - Meios de rede.
+- 1.3. Representações e topologias de rede:
+    - Dispositivos finais:
+        - Computador desktop;
+        - Laptop;
+        - Impressora;
+        - Telefone IP;
+        - Tablet sem fio;
+        - Dispositivo final de TelePresença;
+        - Etc.
+    - Dispositivos intermediários:
+        - Roteador sem fio;
+        - Swith LAN;
+        - Roteador;
+        - Switch multicamada;
+        - Dispositivo de firewall;
+        - Etc.
+    - Meios de rede:
+        - Meios sem fio;
+        - Mídia LAN;
+        - Mídia WAN;
+        - Etc.
+    - Diagramas de Topologia;
+        - Diagrama de topologia física;
+        - Diagrama de topologia lógica.
+- 1.4. Tipos comuns de redes:
+    - Tipos de redes:
+        - A Internet:
+            - PAN (Personal Area Network);
+            - LAN (Local Area Network);
+            - MAN (Metropolitan Area Network);
+            - WAN (Wide Area Network).
+        - Extranet;
+        - Intranet.
+- 1.5. Conexões com a Internet:
+    - Conexões com a Internet para Residências e Pequenos Escritórios:
+        - Cabo;
+        - DSL (Digital Subscriber Line) e ADSL (Asymmetric Digital Subscriber Line);
+        - Celular;
+        - Satélite;
+        - Conexão Discada (Dial-up);
+        - Fibra óptica.
+    - Conexões Corporativas com a Internet:
+        - Linhas Alugadas Dedicadas;
+        - Metro Ethernet;
+        - DSL Comercial;
+        - Satélite;
+        - Fibra óptica.
+    - A Rede Convergente:
+        - Redes Separadas Tradicionais;
+        - Redes convergentes.
+- 1.6. Redes confiáveis:
+    - Arquitetura de Redes:
+        - Tolerância a falhas;
+        - Escalabilidade;
+        - Qualidade de Serviço (QoS);
+        - Segurança:
+            - Confidencialidade;
+            - Integridade;
+            - Disponibilidade.
+- 1.7. Tendências das redes:
+    - Tendências Recentes:
+        - BYOD - Traga seu próprio dispositivo (Bring Your Own Device);
+        - Colaboração on-line;
+        - Comunicação por vídeo;
+        - Computação em nuvem.
+    - Tendências Tecnológicas em Casa:
+        - Rede Powerline;
+        - Banda Larga Sem Fio;
+- 1.8. Segurança de Redes;
+    - Ameaças à Segurança:
+        - Vírus, worms e cavalos de Tróia;
+        - Spyware de adware;
+        - Ataques de dia zero;
+        - Ataques de ator de ameaça;
+        - Ataques de negação de serviço;
+        - Interceptação de dados e roubo;
+        - Roubo de identidade.
+    - Soluções de Segurança:
+        - Antivirus e antispyware;
+        - Filtragem por firewall
+        - Sistemas de firewall dedicados;
+        - Lista de controle de acesso (ACL);
+        - Sistemas de prevenções de intrusões (IPS);
+        - Redes privadas virtuais (VPN).
+- 1.9. O profissional de TI;
+- 1.10. Módulo Prático e Quiz.
+
+# Materiais de apoio
+
+- Glossário - [link](./Glossário.md);
