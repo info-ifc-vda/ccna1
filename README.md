@@ -16,5 +16,6 @@
     -
 - Módulo 2: Switch básico e configuração de dispositivo final: [link](Módulo%202/).
 - Atividades: [link](./Módulo%202/AtividadesGNS3/)
-- Videoaulas [link](https://www.youtube.com/watch?v=u3g0d2kVKvQ&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=7);
-- VM GNS3 [link](https://drive.google.com/file/d/16OI5NqUCNmMSlnI12LDonfLXo-093Xma/view?usp=drive_link).
+- Videoaulas: [link](https://www.youtube.com/watch?v=u3g0d2kVKvQ&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=7);
+- VM GNS3 (Senha do usuário: 123): [link](https://drive.google.com/file/d/16OI5NqUCNmMSlnI12LDonfLXo-093Xma/view?usp=drive_link);
+- Grupo do Telegram da turma: [link](https://t.me/+iZ5ZdflvchpkNmJh);
