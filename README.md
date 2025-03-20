@@ -20,3 +20,8 @@
 - Videoaulas: [link](https://www.youtube.com/watch?v=u3g0d2kVKvQ&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=7);
 - VM GNS3 (Senha do usuário: 123): [link](https://drive.google.com/file/d/16OI5NqUCNmMSlnI12LDonfLXo-093Xma/view?usp=drive_link);
 - Grupo do Telegram da turma: [link](https://t.me/+iZ5ZdflvchpkNmJh);
+
+## Aula 3 - 19/03/2025
+- Tópicos em sala:
+
+- Módulo 3: Protocolos e modelos: [link](Módulo%203/);
