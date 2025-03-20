@@ -13,7 +13,8 @@
 ## Aula 2 - 13/03/2025
 - Tópicos em sala:
     - Demonstração de realização de atividade no Cisco Packet Tracer;
-    -
+    - Conceitos básicos de IP (IPv4, Máscara de subrede, Gateway);
+    - Introdução ao simulador GNS3: Configuração de ip estático;
 - Módulo 2: Switch básico e configuração de dispositivo final: [link](Módulo%202/).
 - Atividades: [link](./Módulo%202/AtividadesGNS3/)
 - Videoaulas: [link](https://www.youtube.com/watch?v=u3g0d2kVKvQ&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=7);
