@@ -12,7 +12,7 @@
 ## Cabos Submarinos
 
 -  Mapa de todos os cabos submarinos
-    ![alt Mapa De Todos Os Cabos Submarinos](./img/MapaDeTodosOsCabosSubmarinos.png)
+    ![alt Mapa De Todos Os Cabos Submarinos](./img/MapaDeTodosOsCabosSubmarinos.png) \
     *Fonte: [Submarine Cable Map](https://www.submarinecablemap.com)*
 
 - Cabo submarino de fibra óptica que liga Brasil à Portugal
