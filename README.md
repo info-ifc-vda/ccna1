@@ -23,6 +23,12 @@
 
 ## Aula 3 - 20/03/2025
 - Tópicos em sala:
-
+    - Modelo OSI;
+    - Introdução ao Wireshark e ao TCP Dump;
 - Módulo 3: Protocolos e modelos: [link](Módulo%203/);
 - Atividade: Captura de pacotes - [link](./Módulo%203/Prática%20captura%20de%20pacotes.md)
+- Videoaulas: [link](https://www.youtube.com/watch?v=iCMZ6896ilc&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=10)
+
+## Aula 04 - 27/03/2025
+- Tópicos em sala:
+    - Revisão para avaliação do NetAcad;
