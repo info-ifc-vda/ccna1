@@ -32,3 +32,8 @@
 ## Aula 04 - 27/03/2025
 - Tópicos em sala:
     - Revisão para avaliação do NetAcad;
+
+## Aula 05 - 03/04/2025
+- Tópicos em sala:
+
+- Módulo 4: Camada física: [link](Módulo%204/);
