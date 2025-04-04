@@ -35,5 +35,16 @@
 
 ## Aula 05 - 03/04/2025
 - Tópicos em sala:
-
+    - Largura de banda;
+    - Throughput;
+    - Tipos de cabo (baseado na velocidade):
+        - Ethernet;
+        - FastEthernet;
+        - GigabitEthernet.
+    - Tipos de cabo (baseado na construção dele):
+        - CAT5 (legado);
+        - CAT5e;
+        - CAT6;
+        - Fibra Óptica.
+    - Crimpagem de cabos.
 - Módulo 4: Camada física: [link](Módulo%204/);
