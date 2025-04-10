@@ -4,3 +4,4 @@
 
 - Glossário - [link](./Glossário.md);
 - Fibra Óptica - [link](./Fibra%20Óptica.md).
+- Revisão - [link](REVISAO.md)
