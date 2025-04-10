@@ -27,11 +27,12 @@
     - Introdução ao Wireshark e ao TCP Dump;
 - Módulo 3: Protocolos e modelos: [link](Módulo%203/);
 - Atividade: Captura de pacotes - [link](./Módulo%203/Prática%20captura%20de%20pacotes.md)
-- Videoaulas: [link](https://www.youtube.com/watch?v=iCMZ6896ilc&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=10)
+- Videoaulas: [link](https://www.youtube.com/watch?v=iCMZ6896ilc&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=10).
 
 ## Aula 04 - 27/03/2025
 - Tópicos em sala:
     - Revisão para avaliação do NetAcad;
+- Videoaulas: [link](https://www.youtube.com/watch?v=0ANY0wthZ6M&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=16).
 
 ## Aula 05 - 03/04/2025
 - Tópicos em sala:
@@ -48,6 +49,7 @@
         - Fibra Óptica.
     - Crimpagem de cabos.
 - Módulo 4: Camada física: [link](Módulo%204/);
+- Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=21).
 
 ## Aula 06 - 10/04/2025
 - Tópicos em sala:
