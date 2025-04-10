@@ -48,3 +48,10 @@
         - Fibra Óptica.
     - Crimpagem de cabos.
 - Módulo 4: Camada física: [link](Módulo%204/);
+
+## Aula 06 - 10/04/2025
+- Tópicos em sala:
+
+
+- Módulo 5: Sistemas de números;
+- Módulo 6: Camada de Enlace de dados: [link](Módulo%206/);
