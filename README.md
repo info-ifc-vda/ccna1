@@ -32,7 +32,6 @@
 ## Aula 04 - 27/03/2025
 - Tópicos em sala:
     - Revisão para avaliação do NetAcad;
-- Videoaulas: [link](https://www.youtube.com/watch?v=0ANY0wthZ6M&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=16).
 
 ## Aula 05 - 03/04/2025
 - Tópicos em sala:
@@ -49,11 +48,18 @@
         - Fibra Óptica.
     - Crimpagem de cabos.
 - Módulo 4: Camada física: [link](Módulo%204/);
-- Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=21).
+- Videoaulas: [link](https://www.youtube.com/watch?v=0ANY0wthZ6M&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=16).
 
 ## Aula 06 - 10/04/2025
 - Tópicos em sala:
-
+    - Conversão binário-decimal
+    - Conversão decimal-binário
+    - Camada de enlace de dados:
+        - Delimitação de quadros (Definição da velocidade de transmissão);
+        - Detecção de erro (CSMA/CD);
+        - Encapsulamento;
+        - Endereçamento.
 
 - Módulo 5: Sistemas de números;
 - Módulo 6: Camada de Enlace de dados: [link](Módulo%206/);
+- Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=21).
