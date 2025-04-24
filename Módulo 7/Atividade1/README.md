@@ -1,5 +1,5 @@
 # Visualização do funcionamento de um Broadcast
-
+Para realizar essa tarefa, você precisa baixar o arquivo: [AtividadeBroadcast.pkt](https://github.com/info-ifc-vda/ccna1/raw/refs/heads/main/M%C3%B3dulo%207/Atividade1/AtividadeBroadcast.pkt)
 ## Roteiro
 
 1. Abra o arquivo [AtividadeBroadcast.pkt](https://github.com/info-ifc-vda/ccna1/raw/refs/heads/main/M%C3%B3dulo%207/Atividade1/AtividadeBroadcast.pkt) no Cisco Packet Tracer;
