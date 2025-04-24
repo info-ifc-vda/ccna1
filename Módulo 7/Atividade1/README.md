@@ -2,7 +2,7 @@
 
 ## Roteiro
 
-1. Abra o arquivo AtividadeBroadcast.pkt no Cisco Packet Tracer;
+1. Abra o arquivo [AtividadeBroadcast.pkt](https://github.com/info-ifc-vda/ccna1/raw/refs/heads/main/M%C3%B3dulo%207/Atividade1/AtividadeBroadcast.pkt) no Cisco Packet Tracer;
 2. Clique no primeiro computador, vá para a aba Desktop e clique em IP Configuration. Certifique-se de que a opção "DHCP" está selecionada;
 3. Feche a tela de configurações do computador;
 4. Na tela principal do Packet Tracer, no canto inferior direito, selecione a aba Simulation;
