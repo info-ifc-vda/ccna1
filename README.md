@@ -63,3 +63,9 @@
 - Módulo 5: Sistemas de números;
 - Módulo 6: Camada de Enlace de dados: [link](Módulo%206/);
 - Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=21).
+
+## Aula 07 - 24/04/2025
+- Tópicos em sala:
+
+- Módulo 7: Switching Ethernet: [link](Módulo%207/);
+- Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=25).
