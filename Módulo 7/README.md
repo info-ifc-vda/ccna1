@@ -4,6 +4,7 @@
 
 - Glossário - [link](./Glossário.md);
 - Glossário TCP Dump - [link](../Módulo%203/Glossário%20TCP%20Dump.md)
+- Revisão - [link](REVISAO.md)
 
 # Atividades
 
