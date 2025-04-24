@@ -1,4 +1,4 @@
-# Módulo 6: Switching Ethernet
+# Módulo 7: Switching Ethernet
 
 # Materiais de apoio
 
