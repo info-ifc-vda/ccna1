@@ -1,8 +1,9 @@
 # Prática tabela ARP no switch
+Esta tarefa utiliza um switch Layer 3 disponível no laboratório. Para realizar esta prática você precisa estar conectado ao equipamento e saber o IP do seu equipamento.
 
 ## Linux
 
-Os seguintes comandos foram rodados em um sistema Linux mint 22
+Este roteiro se baseia em comandos disponíveis em um sistema Linux mint 22 e em um switch HP A5120.
 
 ### Como conectar-se ao switch
 
