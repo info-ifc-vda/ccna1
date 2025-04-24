@@ -1,8 +1,9 @@
 # Prática tabela ARP no host
+Esta tarefa consiste em verificar e configurar estaticamente a tabela ARP no host. 
 
 ## Linux
 
-Os seguintes comandos foram rodados em um sistema Linux mint 22
+Este roteiro segue os comandos foram utilizados em um sistema Linux mint 22
 
 ### Visualização inicial
 
