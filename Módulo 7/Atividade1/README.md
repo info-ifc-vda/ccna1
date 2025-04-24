@@ -2,6 +2,12 @@
 
 ## Roteiro
 
-1. Abra a atividade no Packet Tracer, após aberta, no canto inferior direito, existe um botão "Simulation", clique nele.
-2. Em sequência, clique em 1 dos computadores dispostos na atividade, vá até a aba "IP Configuration" e mude a configuração IP de static para DHCP.
-3. Após as etapas acima, vá até a aba lateral direita "Simulation Panel" e clique no botão de play da simulação. OBS(Pode não funcionar imediatamente).
+1. Abra o arquivo AtividadeBroadcast.pkt no Cisco Packet Tracer;
+2. Clique no primeiro computador, vá para a aba Desktop e clique em IP Configuration. Certifique-se de que a opção "DHCP" está selecionada;
+3. Feche a tela de configurações do computador;
+4. Na tela principal do Packet Tracer, no canto inferior direito, selecione a aba Simulation;
+5. Logo acima, clique no botão Show All/None para limpar a lista de eventos e depois clique em Edit Filters;
+6. Na tela que se abrir, marque ARP e ICMP e feche a tela.
+7. Na tela principal do Packet Tracer, clique no ícone de envelope para selecionar a ferramenta de Ping.
+8. Clique sobre o primeiro computador e em seguida clique sobre o segundo computador. Deverão aparecer 2 envelopes sobre o primeiro computador.
+9. No painel lateral direito, clique em Play para iniciar a simulação.
