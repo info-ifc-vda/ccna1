@@ -6,7 +6,7 @@
 |ATM| Asynchronous Transfer Mode| Modo de Transferência Assíncrona | É um padrão de rede de telecomunicações que permite a transferência de dados, voz e vídeo.|
 |CD | Collision Detection | Detecção de Colisão | É um mecanismo que identifica e evita colisões de pacotes de dados em redes Ethernet |
 | CRC | Cyclic Redundancy Check | Verificação de redundância cíclica | É um método de detecção de alterações e ou erros acidentais no canal de comunicação.  |
-| DLL | Dynamic Link Library | Biblioteca de Vínculo Dinâmico | É uma biblioteca que contém código e dados que podem ser usados por mais de um programa ao mesmo tempo. |
+| DLL | Data Link Layer | Camada de enlace de dados | Segunda camada do modelo OSI. |
 | Extended Star | Extended Star | Estrela Estendida | É um tipo de topologia que une topologias estrela individuais ao conectar hubs ou switches.  |
 | Frame Relay  | Frame Relay  | Frame Relay | É um protocolo de WAN de alta capacidade que opera nas camadas físicas e de link de dados do modelo OSI. |
 |Full-Duplex| Full-Duplex| Full-Duplex| Neste tipo de comunicação ambos os dispositivos podem transmitir e receber simultaneamente na mídia compartilhada.|
