@@ -65,7 +65,11 @@
 - Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=21).
 
 ## Aula 07 - 24/04/2025
-- Tópicos em sala:
-
 - Módulo 7: Switching Ethernet: [link](Módulo%207/);
 - Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=25).
+
+## Aula 08 - 08/05/2025
+- Tópicos em sala:
+
+- Módulo 8: Camada de rede: [link](Módulo%208/);
+- Módulo 9: Resolução de endereços: [Link](Módulo%209/)

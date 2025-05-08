@@ -1,0 +1,7 @@
+| Sigla / Palavra | Nome Completo em EN | Nome Completo em PT | Conceito |
+| :---: | :---: | :---: | ----- |
+| Ataque man-in-the-middle | Man-in-the-Middle Attack | Ataque Intermediário | O ataque MitM é um tipo de ataque cibernético no qual um atacante intercepta e possivelmente altera a comunicação entre duas partes sem que as vítimas saibam. |
+| DAI | Dynamic Address Resolution Protocol Inspection | Inspeção Dinâmica do Protocolo de Resolução de Endereços | É uma funcionalidade de segurança que intercepta, regista e descarta pacotes ARP com associações inválidas de endereços MAC para IP.  |
+| Falsificação ARP  | Address Resolution Protocol Spoofing | Falsificação do Protocolo de Resolução de Endereços | É uma técnica usada por um ator de ameaça para responder a uma solicitação ARP de um endereço IPv4 que pertence a outro dispositivo da rede. |
+| IETF RFC 4861 | IETF RFC 4861 | IETF RFC 4861 | É um documento oficial da IETF que descreve o protocolo NDP utilizado no IPv6. |
+| Tabela ARP | Address Resolution Protocol Table | Tabela do Protocolo de Resolução de Endereços | É um recurso armazenado temporariamente na memória RAM de dispositivos de rede. Assim, ela é utilizada para encontrar o endereço MAC associado ao seu respectivo endereço IPv4. |
