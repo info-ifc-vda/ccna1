@@ -1,0 +1,7 @@
+| Sigla / Palavra | Nome Completo em EN | Nome Completo em PT | Conceito |
+| :---: | :---: | :---: | ----- |
+| IS-IS | Intermediate System to Intermediate System | Sistema Intermediário para Sistema Intermediário | É um protocolo de gateway interno (IGP) que usa informações de estado de enlace para tomar decisões de roteamento. |
+| LISP | Locator/ID Separation Protocol | Protocolo de Separação de Localizador e Identificador | É um protocolo desenhado para melhorar a escalabilidade e eficiência do roteamento IP.  |
+| NHRP | Next Hop Resolution Protocol | Protocolo de Resolução de Próximo Salto | Utilizado para mapear endereços IP de destino a endereços de camada 2\. Seu objetivo é otimizar a comunicação em redes onde o roteamento tradicional poderia ser ineficiente. |
+| ODR | On-Demand Routing | Roteamento Sob Demanda | É um aperfeiçoamento do CDP (Cisco Discovery Protocol), um protocolo usado para descobrir outros dispositivos Cisco em mídia de transmissão ou não transmissão.  |
+| RIP | Routing Information Protocol | Protocolo de Informação de Roteamento | Usa um algoritmo de "vetor a distância" para determinar o melhor caminho de roteamento para um host ou rede, com base na contagem de pulos. |

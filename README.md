@@ -70,7 +70,13 @@
 
 ## Aula 08 - 08/05/2025
 - Tópicos em sala:
-
+    - Roteamento;
 - Módulo 8: Camada de rede: [link](Módulo%208/);
-- Módulo 9: Resolução de endereços: [Link](Módulo%209/)
+- Módulo 9: Resolução de endereços: [Link](Módulo%209/);
 - Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=29).
+
+## Aula 09 - 15/05/2025
+
+- Tópicos em sala:
+
+- Módulo 10: Configuração básica do roteador
