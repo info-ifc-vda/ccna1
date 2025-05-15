@@ -68,6 +68,9 @@
 - Módulo 7: Switching Ethernet: [link](Módulo%207/);
 - Videoaulas: [link](https://www.youtube.com/watch?v=FyMMehEvIJw&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=25).
 
+## Revisão
+Revisão para o exame de ponto de verificação do NetAcad módulos 4, 6 e 7. [link](Módulo%207/REVISAO.md)
+
 ## Aula 08 - 08/05/2025
 - Tópicos em sala:
     - Roteamento;
@@ -78,5 +81,7 @@
 ## Aula 09 - 15/05/2025
 
 - Tópicos em sala:
-
 - Módulo 10: Configuração básica do roteador: [link](Módulo%2010/)
+
+## Revisão
+Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [link](Módulo%2010/REVISAO.md)
