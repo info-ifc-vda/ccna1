@@ -79,4 +79,4 @@
 
 - Tópicos em sala:
 
-- Módulo 10: Configuração básica do roteador: [linkg](Módulo%2010/)
+- Módulo 10: Configuração básica do roteador: [link](Módulo%2010/)
