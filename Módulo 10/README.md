@@ -4,4 +4,5 @@
 
 - Glossário - [link](./Glossário.md);
 - Revisão - [link](./REVISAO.md);
-- Tradução de comandos cisco - [link](./Tradução%20de%20comandos%20cisco.md)
+- Tradução de comandos cisco - [link](./Tradução%20de%20comandos%20cisco.md);
+- Atividade 1 - [link](./Atividade1/);
