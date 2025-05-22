@@ -80,8 +80,12 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 4, 6 e 7. [l
 
 ## Aula 09 - 15/05/2025
 
-- Tópicos em sala:
 - Módulo 10: Configuração básica do roteador: [link](Módulo%2010/)
+- Videoaulas: [link](https://www.youtube.com/watch?v=SWSmVoS4ml0&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=36).
 
 ## Revisão
 Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [link](Módulo%2010/REVISAO.md)
+
+## Aula 10 - 22/05/2025
+
+- Módulo 11: Endereçamento IPv4: [link](Módulo%2011/);
