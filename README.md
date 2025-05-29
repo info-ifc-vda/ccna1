@@ -89,3 +89,10 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [
 ## Aula 10 - 22/05/2025
 
 - Módulo 11: Endereçamento IPv4: [link](Módulo%2011/);
+
+## Aula 11 - 29/05/2025
+
+- Módulo 11: Endereçamento IPv4: [link](Módulo%2011/);
+- Tópicos em sala:
+    - Divisão de sub-redes;
+- Videoaulas: [link](https://www.youtube.com/watch?v=SWSmVoS4ml0&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=40).
