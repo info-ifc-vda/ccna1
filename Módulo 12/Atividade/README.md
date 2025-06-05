@@ -5,15 +5,14 @@ Baixe o arquivo [RedeEstaticaIpv6.gns3](RedeEstaticaIpv6.gns3) (Acesse o link de
 ## Roteiro
 
 1. Em ambos os roteadores defina.
-  - IPv6 como metodo de roteamento, use o comando `ipv6 unicast-routing`
-  - Va na interface <fa 0/0> corespondente a rede local e defina o endereco IPv6, ` ipv6 address <ipv6>/64`, `ipv6 enable` e `no shutdown`.
+  - IPv6 como método de roteamento, use o comando `ipv6 unicast-routing`
+  - Va na interface <fa 0/0> correspondente a rede local e defina o endereco IPv6, ` ipv6 address <ipv6>/64`, `ipv6 enable` e `no shutdown`.
   - defina o modo de descoberta como `ip forward-protocol nd`
-  - defina a visinhanca com o comando `ipv6 route <ipv6 da rede>/<mascara> <ip da rede intermediaria>`
-  - Va na interface <fa 0/1> corespondente a rede WAN e defina o endereco IPv6 para a comunicacao entre as redes, ` ipv6 address <ipv6>/64`, `ipv6 enable` e `no shutdown`.
-  - No modo de configuracao global defina a rota manualmente `ipv6 route <ip de destino> <ip do caminho para o deestino>`
+  - defina a vizinhança com o comando `ipv6 route <ipv6 da rede>/<mascara> <ip da rede intermediaria>`
+  - Va na interface <fa 0/1> correspondente a rede WAN e defina o endereco IPv6 para a comunicacao entre as redes, ` ipv6 address <ipv6>/64`, `ipv6 enable` e `no shutdown`.
+  - No modo de configuração global defina a rota manualmente `ipv6 route <ip de destino> <ip do caminho para o deestino>`
 
-2. Nos PCs defina
-  - Nos PCs defina a o ipv6 `ip <ipv6 do host> <ipv6 do gateway>`
+2. Nos PCs defina o ipv6 `ip <ipv6 do host> <ipv6 do gateway>`
 
 ## Gabarito:
 
