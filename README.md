@@ -96,3 +96,7 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [
 - Tópicos em sala:
     - Divisão de sub-redes;
 - Videoaulas: [link](https://www.youtube.com/watch?v=SWSmVoS4ml0&list=PLRV9PYNL3oWRl7vY4s5nopvIlxNACJvx1&index=40).
+
+## Aula 12 - 05/06/2025
+
+- Módulo 12: Endereçamento IPv6: [link](Módulo%2012/);
