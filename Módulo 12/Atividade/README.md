@@ -1,6 +1,6 @@
 # Atividade Sub-redes de tamanho fixo.
 
-Baixe o arquivo [RedeEstaticaIpv6.gns3](https://github.com/info-ifc-vda/ccna1/raw/refs/heads/main/M%C3%B3dulo%2012/Atividade/RedeEstaticaIpv6.gns3) (Acesse o link deste repositório dentro da máquina virtual)
+Baixe o arquivo [RedeEstaticaIpv6.gns3](RedeEstaticaIpv6.gns3) (Acesse o link deste repositório dentro da máquina virtual)
 
 ## Roteiro
 
