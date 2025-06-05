@@ -3,3 +3,4 @@
 # Materiais de apoio
 
 - Glossário - [link](./Glossário.md);
+- Atividade - [link](./Atividade/)
