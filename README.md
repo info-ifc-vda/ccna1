@@ -100,3 +100,7 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [
 ## Aula 12 - 05/06/2025
 
 - Módulo 12: Endereçamento IPv6: [link](Módulo%2012/);
+
+## Aula 13 - 13/06/2025
+
+- Módulo 13: ICMP: [link](Módulo%2013/);
