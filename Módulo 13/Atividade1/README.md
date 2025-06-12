@@ -2,7 +2,9 @@
 
 ## Roteiro
 
-Baixe o arquivo [atividade1.gns3](./atividade1.gns3)
+Utilize a VM com o GNS3 para a realização desta atividade.
+
+Baixe o arquivo [atividade1.gns3](./atividade1.gns3).
 
 1. Configurar a rede local 1 (PC1, R1, S1) para a rede 192.168.0.32/27 .
     1. O PC1 deve estar configurado com o segundo endereço de host.
