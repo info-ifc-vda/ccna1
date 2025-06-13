@@ -22,13 +22,33 @@ Baixe o arquivo [atividade1.gns3](./atividade1.gns3).
     3. Verifique se os aparelhos se comunicam, use o comando `ping IP` a partir do PC.
     **OBS**: o comando para a configuração do ip é `ip IP/MASCARA_DECIMAL IP_GATEWAY`.
 
+    <details>
+        <summary>Resposta: (clique na seta para exibir)</summary>
+        <div><strong>Máscara da rede:</strong> 255.255.255.224</div>
+        <div><strong>IP do PC 1:</strong> 192.168.0.34</div>
+        <div><strong>IP do R1 - fa 0/0:</strong> 192.168.0.33</div>
+    </details>
+
 2. Configurar a rede local 2 (PC2, R2, S2) para a rede 192.168.1.32/28 .
     1. O PC2 deve estar configurado com o primeiro endereço de host.
     2. O R2 deve ter a interface **fa 0/0** configurada com o último endereço de host.
     3. Verifique se os aparelhos se comunicam. Utilize o comando `ping IP` a partir do PC.
 
+    <details>
+        <summary>Resposta: (clique na seta para exibir)</summary>
+        <div><strong>Máscara da rede:</strong> 255.255.255.240</div>
+        <div><strong>IP do PC 2:</strong> 192.168.1.33</div>
+        <div><strong>IP do R2 - fa 0/0:</strong> 192.168.1.46</div>
+    </details>
+
 3. Configurar a rede (R1, R2) para a rede 11.0.0.16/30, coloque o primeiro IP disponível no R1 e o último IP disponível no R2.
     1. R1 e R2 se conectam entre si pela NIC com o nome de **fa 1/0** em ambos os roteadores.
+    <details>
+        <summary>Resposta: (clique na seta para exibir)</summary>
+        <div><strong>Máscara da rede:</strong> 255.255.255.252</div>
+        <div><strong>IP do R1 - fa 1/0:</strong> 11.0.0.17</div>
+        <div><strong>IP do R2 - fa 1/0:</strong> 11.0.0.18</div>
+    </details>
 
 4. Configuração do método de roteamento.
     1. Entre no modo de configuração global, digite `router rip` e use o comando `network ENDERECO_DE_REDE` para adicionar a rede.
@@ -42,7 +62,9 @@ Baixe o arquivo [atividade1.gns3](./atividade1.gns3).
     3. Desligue tudo e ligue novamente.
     4. Agora tente novamente o comando `trace IP_DO_PC2` a partir do PC1.
 
+## Gabarito
 
+[link](./gabarito.md)
 
 ## Referência
 
