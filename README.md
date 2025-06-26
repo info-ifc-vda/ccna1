@@ -104,3 +104,7 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 8, 9 e 10. [
 ## Aula 13 - 12/06/2025
 
 - Módulo 13: ICMP: [link](Módulo%2013/);
+
+## Aula 14 - 26/06/2025
+
+- Módulo 14: Camada de transporte: [link](Módulo%2014/);
