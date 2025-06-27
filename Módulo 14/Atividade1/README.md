@@ -4,7 +4,7 @@ Nesta atividade, vamos usar o wireshark para olhar os pacotes que utilizam o pro
 
 ## Como gerar pacotes UDP
 
-O foco vai ser analisar pacotes UDP, e para gerar pacotes UDP vamos utilizar o comando `nslookup`. Este comando funciona da seguinte maneira: invoca o protocolo DNS (Domain Name Server) que por sua vez irá um datagrama UDP
+O foco será analisar pacotes UDP, e para gerar pacotes UDP vamos utilizar o comando `nslookup`. Este comando funciona da seguinte maneira: invoca o protocolo DNS (Domain Name Server) que por sua vez irá um datagrama UDP
 
 ```bash
 nslookup <endereco>
