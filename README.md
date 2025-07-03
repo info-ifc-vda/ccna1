@@ -111,3 +111,7 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 11, 12 e 13.
 ## Aula 14 - 26/06/2025
 
 - Módulo 14: Camada de transporte: [link](Módulo%2014/);
+
+## Aula 15 - 03/07/2025
+
+- Módulo 15: Camada de aplicação: [link](Módulo%2015/);
