@@ -1,5 +1,19 @@
 # Configuracao de acesso via SSH e implementacao de medidas básicas de segurança
 
+## Roteiro
+
+### Inicialização
+
+Utilize a VM com o GNS3 para a realização desta atividade.
+
+Baixe o arquivo [atividade1.gns3](./atividade1.gns3).
+
+1. Abra o GNS3 e abra o arquivo que você baixou (abra este github dentro da máquina virtual)
+
+2. Ligue todos os dispositivos clicando no botão de "play" na barra de ferramentas.
+
+3. Para abrir o terminal em cada dispositivo, clique com o botão direito sobre o mesmo e clique em "console".
+
 - tabela do comando ssh
     ```
     ssh ?
@@ -13,6 +27,7 @@
     -vrf       Especificar o nome do vrf
     WORD       Endereço IP ou nome de host de um sistema remoto
     ```
+# Exercícios
 
 ## Configurar o roteador R2
 
