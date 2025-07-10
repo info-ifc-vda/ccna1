@@ -115,3 +115,7 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 11, 12 e 13.
 ## Aula 15 - 03/07/2025
 
 - Módulo 15: Camada de aplicação: [link](Módulo%2015/);
+
+## Aula 16 - 10/07/2025
+
+- Módulo 16: Fundamentos de segurança de rede: [link](Módulo%2016/);
