@@ -119,3 +119,11 @@ Revisão para o exame de ponto de verificação do NetAcad módulos 11, 12 e 13.
 ## Aula 16 - 10/07/2025
 
 - Módulo 16: Fundamentos de segurança de rede: [link](Módulo%2016/);
+
+## Revisão
+
+- Revisão para o exame de ponto de verificação do NetAcad módulos 16 e 17. [link](Módulo%2017/REVISAO.md)
+
+## Exames finais
+
+- Traduzido: [link](Exames%20Finais/);
